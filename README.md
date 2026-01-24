@@ -22,7 +22,7 @@ I enjoy building **reliable, maintainable software** — from low-level tools to
 
 ## 🚀 Featured Projects
 
-### **CoreZip — File & Folder Compression Tool (C++)**
+### [**CoreZip — File & Folder Compression Tool (C++)**](https://github.com/Pravar-Gupta/CoreZip)
 A command-line, lossless compression tool built from scratch using **Huffman coding** and a **custom archive format**.
 
 - Binary-safe file and folder compression  
@@ -34,7 +34,7 @@ A command-line, lossless compression tool built from scratch using **Huffman cod
 
 ---
 
-### **CritiCut — Network Resilience & Graph Optimization Platform**
+### [**CritiCut — Network Resilience & Graph Optimization Platform**](https://github.com/Pravar-Gupta/Criticut)
 An interactive graph-theoretic optimization system that identifies **structurally critical nodes** and weakens their influence using **effective resistance–based, constraint-preserving edge removal**, while guaranteeing network connectivity.
 
 - Information centrality via Laplacian pseudo-inverse  
