@@ -2,7 +2,13 @@
 
 **Software Engineer** focused on **systems programming, backend development, and algorithmic problem solving**.
 
-I build **reliable, maintainable software** — from low-level C++ tools to analytical and backend systems.
+I am here to build **reliable, maintainable software** — from low-level C++ tools to analytical and backend systems.
+
+---
+
+## 🧭 Engineering Philosophy
+> **Make it work → make it reliable → make it smart**
+
 
 ---
 
