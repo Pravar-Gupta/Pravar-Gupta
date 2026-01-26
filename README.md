@@ -7,7 +7,7 @@ I am here to build **reliable, maintainable software** — from low-level C++ to
 ---
 
 ## 🧭 Engineering Philosophy
-> **Make it work → make it reliable → make it smart**
+> **Make It Work → Make It Reliable → Make It Smart**
 
 
 ---
