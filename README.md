@@ -18,7 +18,6 @@ I care about correctness first, observability next, and optimization where it ma
 - [**PulseAPI**](https://github.com/Pravar-Gupta/PulseAPI) — API monitoring & analytics platform for tracking uptime, latency, and error rates over time  
 - [**CoreZip**](https://github.com/Pravar-Gupta/CoreZip) — C++ file & folder compression tool (Huffman coding, custom archive format, binary-safe I/O)  
 - [**CritiCut**](https://github.com/Pravar-Gupta/Criticut) — Graph-theoretic network resilience & optimization platform using spectral methods  
-- **Sprint Management System** — Backend REST APIs & SQL workflows for internal project tracking  
 
 ---
 
